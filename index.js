@@ -60,7 +60,7 @@ const NewsScraper = async (userConfig) => {
   const timeString = config.timeframe ? ` when:${config.timeframe}` : '';
   const url = `${baseUrl}${queryString}${timeString}`;
 
-  console.log(`📰 SCRAPING NEWS FROM: ${url}`);
+  // console.log(`📰 SCRAPING NEWS FROM: ${url}`);
   const requiredArgs = [
     '--disable-extensions-except=/path/to/manifest/folder/',
     '--load-extension=/path/to/manifest/folder/',
