@@ -6,6 +6,10 @@
   "scripts": {
     "test":"jest"
   },
+  "repository":{
+    "type":"git",
+    "url":"https://github.com/Vignesh160803/news-scraper-npm-package"
+  },
   "keywords": [
     "news",
     "scraper",
