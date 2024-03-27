@@ -1,5 +1,5 @@
 {
-  "name": "news-scraper",
+  "name": "veritas-news-scraper",
   "version": "1.0",
   "description": "A asynchronous scraper which currently scrapes news from google news homne pages",
   "main": "index.js",
